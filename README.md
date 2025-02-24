@@ -64,6 +64,8 @@ Further research could involve:
 - Experimenting with different filtrations.
 - Exploring more advanced topological invariants.
 
+Documentation (in Polish) available [here](https://github.com/kasiabeben10/TDA-project/tree/main/DOKUMENTACJA.pdf).
+
 ---
 For any questions or improvements, feel free to contact us!
 
